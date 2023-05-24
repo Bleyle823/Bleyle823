@@ -7,7 +7,7 @@
 
 <br><br>
 
-- :school: I am currently a `Student` at [Bachelor in Business Information Technology](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Africa Nazarene University](http://suez.edu.eg/ar/).
+- :school: I am currently a `Student` pursuing a [Bachelors in Business Information Technology](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Africa Nazarene University](http://suez.edu.eg/ar/).
 - :🥉: 
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Blockchain` and `Web 3 Technology`.
