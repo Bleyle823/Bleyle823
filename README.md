@@ -13,6 +13,5 @@
 - :computer: I frequently participate in hackathons at `ETHGlobal`, `Devpost`, `Gitcoin`, `Encode club`.
 - :nerd_face:My German Language level is ` B1.`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
-- :boom: You can visit [MY WEBSITE]().
 <br>
 
