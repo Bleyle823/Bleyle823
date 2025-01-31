@@ -12,7 +12,7 @@
 - :mortar_board: I graduated with a `Bachelors in Business Information Technology` from [Africa Nazarene University](https://www.anu.ac.ke/).
 - :student: I’m currently expanding my expertise in `Blockchain` and `Web3 Technology`.
 - :nerd_face: My German language level is `B1`.
-- :rocket: I’m currently open to new `job opportunities` — here is [MY RESUME]().
+- :rocket: I’m currently open to new `job opportunities`.
 
 ---
 
